@@ -11,6 +11,6 @@ gsap.fromTo('.box',{
 },{
   delay:0.6,
   x:500,
-  y:300,
+  y:600,
   duration:2
 })
